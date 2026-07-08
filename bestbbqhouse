@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Barbique House BBQ | Kathmandu</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <script src="https://kit.fontawesome.com/4d6d1c3b3f.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+🔥 Best Barbique House
+</div>
+
+<nav>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#menu">Menu</a></li>
+<li><a href="#gallery">Gallery</a></li>
+<li><a href="#reviews">Reviews</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+
+</header>
+
+<section id="home" class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>Best BBQ Experience in Kathmandu</h1>
+
+<p>Delicious Barbecue • Family Restaurant • Cozy Environment</p>
+
+<a href="#menu" class="btn">View Menu</a>
+
+<a href="#contact" class="btn2">Book Table</a>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>About Us</h2>
+
+<p>
+
+Best Barbique House BBQ is a popular barbecue restaurant located in Jorpati, Kathmandu.
+
+We serve delicious BBQ, grilled chicken, sausages, and many more mouth-watering dishes.
+
+Our friendly staff and relaxing atmosphere make every visit memorable.
+
+</p>
+
+</section>
+
+<section id="menu">
+
+<h2>Popular Menu</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Chicken BBQ</h3>
+<p>Juicy grilled chicken served with our signature sauce.</p>
+</div>
+
+<div class="card">
+<h3>Sausage BBQ</h3>
+<p>Premium grilled sausage cooked over charcoal.</p>
+</div>
+
+<div class="card">
+<h3>Aalu Roti</h3>
+<p>Traditional Nepali favorite served fresh.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="gallery">
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+
+<div class="photo"></div>
+
+<div class="photo"></div>
+
+<div class="photo"></div>
+
+<div class="photo"></div>
+
+</div>
+
+</section>
+
+<section id="reviews">
+
+<h2>Customer Reviews</h2>
+
+<div class="review">
+
+★★★★★
+
+<p>
+
+"Great Staff, Super Food Quality. Positive environment."
+
+</p>
+
+</div>
+
+<div class="review">
+
+★★★★★
+
+<p>
+
+"Very nice place with barbecue and other delicious dishes."
+
+</p>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<p>
+
+📍 Jorpati, Kathmandu
+
+</p>
+
+<p>
+
+📞 01-4916390
+
+</p>
+
+<p>
+
+Open Daily: 10 AM – 10 PM
+
+</p>
+
+<a class="facebook" href="#">Visit Facebook</a>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Best Barbique House BBQ
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
